@@ -9,9 +9,8 @@ function App() {
   return (
     <div className="h-screen w-screen bg-bg-color">
       <div className=" sm:flex sm:w-full">
-        <Sidebar />
-        <div className="flex flex-col items-center sm:w-full sm:gap-5">
-          <Nav />
+        {/* <Sidebar /> */}
+        <div className="flex flex-col sm:w-full sm:gap-5 bg-bg-color ">         
           <Rtosavings />
         </div>
       </div>     

@@ -11,6 +11,10 @@ module.exports = {
         'active' :'#4318FF',
         'menu' :'#A3AED0',
         'openleaf' :'#9098C1',
+        'text-col': '#2B3674',
+      },
+      fontFamily: {
+        poppins: ['Poppins']
       }
     },
 
